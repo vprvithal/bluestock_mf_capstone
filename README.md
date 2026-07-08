@@ -258,9 +258,9 @@ Dashboard Features:
 
 # Author
 
-**Munna**
+**vprvithal**
 
-Data Analytics Intern
+
 
 Bluestock Fintech
 
